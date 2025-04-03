@@ -1,4 +1,4 @@
-📌 ***Schedule Management API***
+📌 ###Schedule Management API###
 이 프로젝트는 사용자(User)와 일정(Schedule)을 관리하는 RESTful API입니다.
 
 사용자는 유저 생성, 조회, 삭제, 비밀번호 수정기능과 일정 생성, 조회, 수정 및 삭제 기능을 사용할 수 있습니다.
